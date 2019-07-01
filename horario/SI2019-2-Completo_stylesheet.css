@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
 /* Folha de estilo CSS de SI2019-2-Completo.fet
-   Folha de estilos gerada por FET 5.38.1 em 01/07/2019 10:00 */
+   Folha de estilos gerada por FET 5.38.1 em 01/07/2019 15:49 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -613,31 +613,35 @@ span.r_2 { /* room LABIN II */
 
 }
 
-span.r_3 { /* room LABIN III */
+span.r_3 { /* room LABIN II (NOITE) */
 
 }
 
-span.r_4 { /* room LABIN IV */
+span.r_4 { /* room LABIN III */
 
 }
 
-span.r_5 { /* room LABIN V */
+span.r_5 { /* room LABIN IV */
 
 }
 
-span.r_6 { /* room Sala 1 */
+span.r_6 { /* room LABIN V */
 
 }
 
-span.r_7 { /* room Sala 2 */
+span.r_7 { /* room Bloco B Sala 1 */
 
 }
 
-span.r_8 { /* room Sala 3 */
+span.r_8 { /* room Bloco B Sala 2 */
 
 }
 
-span.r_9 { /* room Sala 4 */
+span.r_9 { /* room Bloco B Sala 7 */
+
+}
+
+span.r_10 { /* room Bloco B Sala 14 */
 
 }
 
