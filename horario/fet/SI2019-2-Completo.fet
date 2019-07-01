@@ -2491,7 +2491,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P4 - Aspectos Teóricos de Computação</Subject>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2512,14 +2512,14 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Sociedade e Tecnologia</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Metodologia Científica e da Pesquisa</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2533,21 +2533,21 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P2 - Pré-Cálculo</Subject>
-	<Room>Bloco B Sala 1</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintSubjectPreferredRoom>
-<ConstraintSubjectPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Subject>G18P3 - Empreendedorismo e Arquitetura Empresarial</Subject>
 	<Room>Bloco B Sala 2</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Subject>G18P4 - Engenharia de Software I</Subject>
+	<Subject>G18P3 - Empreendedorismo e Arquitetura Empresarial</Subject>
 	<Room>Bloco B Sala 7</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>G18P4 - Engenharia de Software I</Subject>
+	<Room>Bloco B Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2605,7 +2605,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P6 - Estágio Supervisionado</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2619,7 +2619,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P8 - Trabalho de Conclusão de Curso</Subject>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2666,7 +2666,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P6 - Elaboração e Gestão de Projetos</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>

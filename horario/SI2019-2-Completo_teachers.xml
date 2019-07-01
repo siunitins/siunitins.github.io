@@ -27,10 +27,10 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P4 - Engenharia de Software I"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 7"></Room>
+     <Subject name="G18P4 - Engenharia de Software I"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 1"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P4 - Engenharia de Software I"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 7"></Room>
+     <Subject name="G18P4 - Engenharia de Software I"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 1"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -61,10 +61,10 @@
   <Teacher name="Carlos Henrique">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN II"></Room>
+     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN II"></Room>
+     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Terça-feira">
@@ -225,10 +225,10 @@
    </Day>
    <Day name="Sábado - Tarde">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Trabalho de Conclusão de Curso"></Subject><Students name="G10P8"></Students><Room name="Bloco B Sala 7"></Room>
+     <Subject name="G10P8 - Trabalho de Conclusão de Curso"></Subject><Students name="G10P8"></Students><Room name="Bloco B Sala 1"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Trabalho de Conclusão de Curso"></Subject><Students name="G10P8"></Students><Room name="Bloco B Sala 7"></Room>
+     <Subject name="G10P8 - Trabalho de Conclusão de Curso"></Subject><Students name="G10P8"></Students><Room name="Bloco B Sala 1"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -293,10 +293,10 @@
   <Teacher name="Fredson Costa">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 1"></Room>
+     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 1"></Room>
+     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
    </Day>
    <Day name="Terça-feira">
@@ -362,7 +362,7 @@
      
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P3 - Metodologia Científica e da Pesquisa"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 2"></Room>
+     <Subject name="G18P3 - Metodologia Científica e da Pesquisa"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
    </Day>
    <Day name="Quarta-feira">
@@ -641,10 +641,10 @@
   <Teacher name="Itamar Júnior">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P4 - Aspectos Teóricos de Computação"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 7"></Room>
+     <Subject name="G18P4 - Aspectos Teóricos de Computação"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 1"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P4 - Aspectos Teóricos de Computação"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 7"></Room>
+     <Subject name="G18P4 - Aspectos Teóricos de Computação"></Subject><Students name="G18P4"></Students><Room name="Bloco B Sala 1"></Room>
     </Hour>
    </Day>
    <Day name="Terça-feira">
@@ -665,10 +665,10 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN II"></Room>
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN II"></Room>
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -1013,10 +1013,10 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P3 - Empreendedorismo e Arquitetura Empresarial"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 2"></Room>
+     <Subject name="G18P3 - Empreendedorismo e Arquitetura Empresarial"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P3 - Empreendedorismo e Arquitetura Empresarial"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 2"></Room>
+     <Subject name="G18P3 - Empreendedorismo e Arquitetura Empresarial"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -1105,18 +1105,18 @@
   <Teacher name="Rafael Bosso">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students><Room name="Bloco B Sala 2"></Room>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students><Room name="Bloco B Sala 2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students><Room name="Bloco B Sala 2"></Room>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students><Room name="Bloco B Sala 2"></Room>
     </Hour>
    </Day>
    <Day name="Quarta-feira">
@@ -1129,10 +1129,10 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P2 - Pré-Cálculo"></Subject><Students name="G18P2"></Students><Room name="Bloco B Sala 1"></Room>
+     <Subject name="G18P2 - Pré-Cálculo"></Subject><Students name="G18P2"></Students><Room name="Bloco B Sala 2"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P2 - Pré-Cálculo"></Subject><Students name="G18P2"></Students><Room name="Bloco B Sala 1"></Room>
+     <Subject name="G18P2 - Pré-Cálculo"></Subject><Students name="G18P2"></Students><Room name="Bloco B Sala 2"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -1153,10 +1153,10 @@
    </Day>
    <Day name="Sábado - Tarde">
     <Hour name="Aula 1">
-     <Subject name="G18P6 - Estágio Supervisionado"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 1"></Room>
+     <Subject name="G18P6 - Estágio Supervisionado"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P6 - Estágio Supervisionado"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 1"></Room>
+     <Subject name="G18P6 - Estágio Supervisionado"></Subject><Students name="G10P6"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -1171,7 +1171,7 @@
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P3 - Sociedade e Tecnologia"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 2"></Room>
+     <Subject name="G18P3 - Sociedade e Tecnologia"></Subject><Students name="G18P3"></Students><Room name="Bloco B Sala 7"></Room>
     </Hour>
     <Hour name="Aula 2">
      

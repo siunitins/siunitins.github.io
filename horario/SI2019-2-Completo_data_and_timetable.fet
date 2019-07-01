@@ -2199,7 +2199,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>30</Activity_Id>
-	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Day>Terça-feira</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -2509,7 +2509,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P4 - Aspectos Teóricos de Computação</Subject>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2530,14 +2530,14 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Sociedade e Tecnologia</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Metodologia Científica e da Pesquisa</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2551,21 +2551,21 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P2 - Pré-Cálculo</Subject>
-	<Room>Bloco B Sala 1</Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintSubjectPreferredRoom>
-<ConstraintSubjectPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Subject>G18P3 - Empreendedorismo e Arquitetura Empresarial</Subject>
 	<Room>Bloco B Sala 2</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Subject>G18P4 - Engenharia de Software I</Subject>
+	<Subject>G18P3 - Empreendedorismo e Arquitetura Empresarial</Subject>
 	<Room>Bloco B Sala 7</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>G18P4 - Engenharia de Software I</Subject>
+	<Room>Bloco B Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2623,7 +2623,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P6 - Estágio Supervisionado</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2637,7 +2637,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P8 - Trabalho de Conclusão de Curso</Subject>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2684,14 +2684,14 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P6 - Elaboração e Gestão de Projetos</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>6</Activity_Id>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 2</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2747,7 +2747,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>13</Activity_Id>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2755,7 +2755,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>14</Activity_Id>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2779,7 +2779,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>17</Activity_Id>
-	<Room>LABIN II</Room>
+	<Room>LABIN IV</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2787,7 +2787,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>18</Activity_Id>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2811,7 +2811,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>22</Activity_Id>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2835,7 +2835,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>25</Activity_Id>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2843,7 +2843,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>26</Activity_Id>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2883,7 +2883,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>37</Activity_Id>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2923,7 +2923,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>42</Activity_Id>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2947,7 +2947,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>45</Activity_Id>
-	<Room>LABIN II</Room>
+	<Room>LABIN IV</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

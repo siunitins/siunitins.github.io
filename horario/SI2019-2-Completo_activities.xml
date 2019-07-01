@@ -34,7 +34,7 @@
 	<Id>6</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 2</Room>
 </Activity>
 <Activity>
 	<Id>7</Id>
@@ -76,13 +76,13 @@
 	<Id>13</Id>
 	<Day>Terça-feira</Day>
 	<Hour>Aula 2</Hour>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 </Activity>
 <Activity>
 	<Id>14</Id>
 	<Day>Terça-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 </Activity>
 <Activity>
 	<Id>15</Id>
@@ -100,13 +100,13 @@
 	<Id>17</Id>
 	<Day>Segunda-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN II</Room>
+	<Room>LABIN IV</Room>
 </Activity>
 <Activity>
 	<Id>18</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco B Sala 7</Room>
 </Activity>
 <Activity>
 	<Id>19</Id>
@@ -124,7 +124,7 @@
 	<Id>22</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 </Activity>
 <Activity>
 	<Id>23</Id>
@@ -142,17 +142,17 @@
 	<Id>25</Id>
 	<Day>Segunda-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 </Activity>
 <Activity>
 	<Id>26</Id>
 	<Day>Sábado - Tarde</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 </Activity>
 <Activity>
 	<Id>30</Id>
-	<Day>Segunda-feira</Day>
+	<Day>Terça-feira</Day>
 	<Hour>Aula 1</Hour>
 	<Room>Bloco B Sala 2</Room>
 </Activity>
@@ -178,7 +178,7 @@
 	<Id>37</Id>
 	<Day>Sábado - Tarde</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 1</Room>
 </Activity>
 <Activity>
 	<Id>38</Id>
@@ -208,7 +208,7 @@
 	<Id>42</Id>
 	<Day>Segunda-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco B Sala 7</Room>
 </Activity>
 <Activity>
 	<Id>43</Id>
@@ -226,6 +226,6 @@
 	<Id>45</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN II</Room>
+	<Room>LABIN IV</Room>
 </Activity>
 </Activities_Timetable>
