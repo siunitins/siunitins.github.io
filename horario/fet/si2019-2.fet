@@ -1,0 +1,1943 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.37.5">
+
+<Institution_Name>UNITINS</Institution_Name>
+
+<Comments>Curso de Sistemas de Informação</Comments>
+
+<Days_List>
+<Number_of_Days>7</Number_of_Days>
+<Day>
+	<Name>Segunda-feira</Name>
+</Day>
+<Day>
+	<Name>Terça-feira</Name>
+</Day>
+<Day>
+	<Name>Quarta-feira</Name>
+</Day>
+<Day>
+	<Name>Quinta-feira</Name>
+</Day>
+<Day>
+	<Name>Sexta-feira</Name>
+</Day>
+<Day>
+	<Name>Sábado Manhã</Name>
+</Day>
+<Day>
+	<Name>Sábado Tarde</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>4</Number_of_Hours>
+<Hour>
+	<Name>1ª aula</Name>
+</Hour>
+<Hour>
+	<Name>2ª aula</Name>
+</Hour>
+<Hour>
+	<Name>3ª aula</Name>
+</Hour>
+<Hour>
+	<Name>4ª aula</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>P1 - Algoritmos e Programação I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P1 - Arquitetura e Organização de Computadores I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P1 - Desenvolvimento Front-end</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P1 - Inglês Instrumental</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P1 - Leitura e Prática de Produção Textual</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P2 - Pré-Cálculo</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P2 - Gestão de Processos Empresariais</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P2 - Lógica Matemática</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P2 - Arquitetura e Organização de Computadores II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P2 - Banco de Dados I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P2 - Algoritmos e Programação II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P3 - Cálculo Diferencial e Integral</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P3 - Metodologia Científica e da Pesquisa</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P3 - Sociedade e Tecnologia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P3 - Estruturas de Dados</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P3 - Tópicos em Programação I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P3 - Banco de Dados II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P3 - Empreendedorismo e Arquitetura Empresarial</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P4 - Projeto Integrador I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P4 - Fundamentos de Sistemas de Informação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P4 - Engenharia de Requisitos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P4 - Engenharia de Software I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P4 - Tópicos em Programação II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P4 - Sistemas Operacionais</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P4 - Aspectos Teóricos de Computação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P5 - Projeto Integrador II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P5 - Gestão Estratégica da Informação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P5 - Otimização para Sistemas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P5 - Engenharia de Software II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P5 - Computação Orientada a Serviços</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P5 - Redes de Computadores I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P5 - Tópicos em Programação III</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Estágio Supervisionado</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Interface Humano- Computador</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Governança de TI</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Engenharia de Qualidade</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Estatística Computacional</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Inteligência Artificial</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Redes de Computadores II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P6 - Programação para Dispositivos Móveis I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P7 - Elaboração e Gestão de Projetos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P7 - Sistemas Distribuídos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P7 - Mineração de dados</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P7 - Optativa I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P7 - Programação para Dispositivos Móveis II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P7 - Projeto de Conclusão de Curso</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P8 - Segurança e Auditoria de Sistemas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P8 - Direito e Legislação em Informática</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P8 - Simulação de Sistemas de Informação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P8 - Infraestrutura de Redes como Serviços</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P8 - Optativa II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P8 - Trabalho de Conclusão de Curso</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Marco Antonio</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+		<Qualified_Subject>P6 - Inteligência Artificial</Qualified_Subject>
+		<Qualified_Subject>P7 - Mineração de dados</Qualified_Subject>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Alex Coelho</Name>
+	<Target_Number_of_Hours>12</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rafael Bosso</Name>
+	<Target_Number_of_Hours>12</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Carlos Henrique</Name>
+	<Target_Number_of_Hours>8</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Danilo Queiroz</Name>
+	<Target_Number_of_Hours>8</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Darlene Teixeira</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Douglas Chagas</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Fredson Costa</Name>
+	<Target_Number_of_Hours>12</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jânio Teixeira</Name>
+	<Target_Number_of_Hours>12</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jocivan Suassone</Name>
+	<Target_Number_of_Hours>12</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Joelson Delfino</Name>
+	<Target_Number_of_Hours>8</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>John Max</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Itamar Júnior</Name>
+	<Target_Number_of_Hours>12</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>José Cabral</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lígia Felix</Name>
+	<Target_Number_of_Hours>8</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mailson Santos</Name>
+	<Target_Number_of_Hours>12</Target_Number_of_Hours>
+	<Qualified_Subjects>
+		<Qualified_Subject>P1 - Arquitetura e Organização de Computadores I</Qualified_Subject>
+		<Qualified_Subject>P2 - Arquitetura e Organização de Computadores II</Qualified_Subject>
+		<Qualified_Subject>P6 - Redes de Computadores II</Qualified_Subject>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marcelo Ribeiro</Name>
+	<Target_Number_of_Hours>8</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Napoleão Póvoa</Name>
+	<Target_Number_of_Hours>8</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Odi Alexandre</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rodrigo Barbosa</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Silvano Malfatti</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Thaysi Castro</Name>
+	<Target_Number_of_Hours>4</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>P1</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P2</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P3</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P4</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P5</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P6</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P7</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P8</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>Marco Antonio</Teacher>
+	<Subject>P6 - Inteligência Artificial</Subject>
+	<Students>P6</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jocivan Suassone</Teacher>
+	<Subject>P6 - Programação para Dispositivos Móveis I</Subject>
+	<Students>P6</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Rodrigo Barbosa</Teacher>
+	<Subject>P3 - Sociedade e Tecnologia</Subject>
+	<Students>P3</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Joelson Delfino</Teacher>
+	<Subject>P3 - Cálculo Diferencial e Integral</Subject>
+	<Students>P3</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Joelson Delfino</Teacher>
+	<Subject>P2 - Pré-Cálculo</Subject>
+	<Students>P2</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>6</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Silvano Malfatti</Teacher>
+	<Subject>P7 - Programação para Dispositivos Móveis II</Subject>
+	<Students>P7</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>7</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marcelo Ribeiro</Teacher>
+	<Subject>P8 - Simulação de Sistemas de Informação</Subject>
+	<Students>P8</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jânio Teixeira</Teacher>
+	<Subject>P1 - Algoritmos e Programação I</Subject>
+	<Students>P1</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>9</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jânio Teixeira</Teacher>
+	<Subject>P2 - Algoritmos e Programação II</Subject>
+	<Students>P2</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>10</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Jânio Teixeira</Teacher>
+	<Subject>P3 - Tópicos em Programação I</Subject>
+	<Students>P3</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Fredson Costa</Teacher>
+	<Subject>P2 - Gestão de Processos Empresariais</Subject>
+	<Students>P2</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>12</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Fredson Costa</Teacher>
+	<Subject>P4 - Engenharia de Requisitos</Subject>
+	<Students>P4</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Fredson Costa</Teacher>
+	<Subject>P6 - Governança de TI</Subject>
+	<Students>P6</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Fredson Costa</Teacher>
+	<Subject>P6 - Engenharia de Qualidade</Subject>
+	<Students>P6</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Rafael Bosso</Teacher>
+	<Subject>P6 - Estágio Supervisionado</Subject>
+	<Students>P6</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Rafael Bosso</Teacher>
+	<Subject>P6 - Estatística Computacional</Subject>
+	<Students>P6</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Danilo Queiroz</Teacher>
+	<Subject>P1 - Desenvolvimento Front-end</Subject>
+	<Students>P1</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Danilo Queiroz</Teacher>
+	<Subject>P4 - Projeto Integrador I</Subject>
+	<Students>P4</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Itamar Júnior</Teacher>
+	<Subject>P4 - Fundamentos de Sistemas de Informação</Subject>
+	<Students>P4</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Itamar Júnior</Teacher>
+	<Subject>P4 - Aspectos Teóricos de Computação</Subject>
+	<Students>P4</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Itamar Júnior</Teacher>
+	<Subject>P6 - Interface Humano- Computador</Subject>
+	<Students>P6</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Lígia Felix</Teacher>
+	<Subject>P1 - Inglês Instrumental</Subject>
+	<Students>P1</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Douglas Chagas</Teacher>
+	<Subject>P7 - Projeto de Conclusão de Curso</Subject>
+	<Students>P7</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Douglas Chagas</Teacher>
+	<Subject>P8 - Trabalho de Conclusão de Curso</Subject>
+	<Students>P7</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Napoleão Póvoa</Teacher>
+	<Subject>P3 - Empreendedorismo e Arquitetura Empresarial</Subject>
+	<Students>P3</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Napoleão Póvoa</Teacher>
+	<Subject>P4 - Sistemas Operacionais</Subject>
+	<Students>P4</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>30</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Alex Coelho</Teacher>
+	<Subject>P2 - Lógica Matemática</Subject>
+	<Students>P2</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>31</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Alex Coelho</Teacher>
+	<Subject>P4 - Engenharia de Software I</Subject>
+	<Students>P4</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>32</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Alex Coelho</Teacher>
+	<Subject>P8 - Direito e Legislação em Informática</Subject>
+	<Students>P8</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>33</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mailson Santos</Teacher>
+	<Subject>P1 - Arquitetura e Organização de Computadores I</Subject>
+	<Students>P1</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>34</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mailson Santos</Teacher>
+	<Subject>P2 - Arquitetura e Organização de Computadores II</Subject>
+	<Students>P2</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>35</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mailson Santos</Teacher>
+	<Subject>P6 - Redes de Computadores II</Subject>
+	<Students>P6</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>36</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marco Antonio</Teacher>
+	<Subject>P7 - Mineração de dados</Subject>
+	<Students>P7</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>37</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>Bloco A</Name>
+	<Comments></Comments>
+</Building>
+<Building>
+	<Name>Bloco B</Name>
+	<Comments></Comments>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>Sala 1</Name>
+	<Building>Bloco B</Building>
+	<Capacity>40</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Sala 2</Name>
+	<Building>Bloco B</Building>
+	<Capacity>40</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Sala 3</Name>
+	<Building>Bloco B</Building>
+	<Capacity>40</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Sala 4</Name>
+	<Building>Bloco B</Building>
+	<Capacity>40</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>LABIN I</Name>
+	<Building>Bloco B</Building>
+	<Capacity>40</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>LABIN II</Name>
+	<Building>Bloco B</Building>
+	<Capacity>40</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>LABIN III</Name>
+	<Building>Bloco B</Building>
+	<Capacity>40</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>LABIN IV</Name>
+	<Building>Bloco B</Building>
+	<Capacity>20</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>LABIN V</Name>
+	<Building>Bloco B</Building>
+	<Capacity>20</Capacity>
+	<Comments></Comments>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mailson Santos</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Alex Coelho</Teacher>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Napoleão Póvoa</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Douglas Chagas</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Lígia Felix</Teacher>
+	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Rafael Bosso</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Fredson Costa</Teacher>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Jânio Teixeira</Teacher>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Marcelo Ribeiro</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Silvano Malfatti</Teacher>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Joelson Delfino</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Rodrigo Barbosa</Teacher>
+	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Jocivan Suassone</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Manhã</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>1ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>2ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>3ª aula</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado Tarde</Day>
+		<Hour>4ª aula</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>P1 - Algoritmos e Programação I</Subject>
+	<Room>LABIN I</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>P1 - Desenvolvimento Front-end</Subject>
+	<Room>LABIN I</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>P7 - Programação para Dispositivos Móveis II</Subject>
+	<Room>LABIN III</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+</Space_Constraints_List>
+
+</fet>
