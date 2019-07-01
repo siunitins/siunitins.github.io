@@ -1,5 +1,5 @@
 ﻿Conflitos leves de SI2019-2-Completo.fet
-Gerado com FET 5.38.1 em 01/07/2019 20:31
+Gerado com FET 5.38.1 em 01/07/2019 20:53
 
 Número de restrições leves quebradas: 0
 Total de conflitos leves: 0

@@ -160,7 +160,7 @@
 	<Id>32</Id>
 	<Day>Quarta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN V</Room>
+	<Room>LABIN IV</Room>
 </Activity>
 <Activity>
 	<Id>34</Id>
@@ -226,6 +226,6 @@
 	<Id>45</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN IV</Room>
+	<Room>LABIN II</Room>
 </Activity>
 </Activities_Timetable>

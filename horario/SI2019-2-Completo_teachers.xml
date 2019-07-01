@@ -665,10 +665,10 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN II"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN II"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -831,10 +831,10 @@
    </Day>
    <Day name="Quarta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN V"></Room>
+     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN V"></Room>
+     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-feira">
