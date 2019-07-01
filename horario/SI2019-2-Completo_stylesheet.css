@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
 /* Folha de estilo CSS de SI2019-2-Completo.fet
-   Folha de estilos gerada por FET 5.37.5 em 28/06/2019 15:01 */
+   Folha de estilos gerada por FET 5.38.1 em 01/07/2019 10:00 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -73,11 +73,693 @@ th.yAxis {
   height: 8ex;
 }
 
+span.s_1 { /* subject G18P1 - Algoritmos e Programação I */
+
+}
+
+span.s_2 { /* subject G18P1 - Arquitetura e Organização de Computadores I */
+
+}
+
+span.s_3 { /* subject G18P1 - Desenvolvimento Front-end */
+
+}
+
+span.s_4 { /* subject G18P1 - Inglês Instrumental */
+
+}
+
+span.s_5 { /* subject G18P1 - Leitura e Prática de Produção Textual */
+
+}
+
+span.s_6 { /* subject G18P2 - Pré-Cálculo */
+
+}
+
+span.s_7 { /* subject G18P2 - Gestão de Processos Empresariais */
+
+}
+
+span.s_8 { /* subject G18P2 - Lógica Matemática */
+
+}
+
+span.s_9 { /* subject G18P2 - Arquitetura e Organização de Computadores II */
+
+}
+
+span.s_10 { /* subject G18P2 - Banco de Dados I */
+
+}
+
+span.s_11 { /* subject G18P2 - Algoritmos e Programação II */
+
+}
+
+span.s_12 { /* subject G18P3 - Cálculo Diferencial e Integral */
+
+}
+
+span.s_13 { /* subject G18P3 - Metodologia Científica e da Pesquisa */
+
+}
+
+span.s_14 { /* subject G18P3 - Sociedade e Tecnologia */
+
+}
+
+span.s_15 { /* subject G18P3 - Estruturas de Dados */
+
+}
+
+span.s_16 { /* subject G18P3 - Tópicos em Programação I */
+
+}
+
+span.s_17 { /* subject G18P3 - Banco de Dados II */
+
+}
+
+span.s_18 { /* subject G18P3 - Empreendedorismo e Arquitetura Empresarial */
+
+}
+
+span.s_19 { /* subject G18P4 - Projeto Integrador I */
+
+}
+
+span.s_20 { /* subject G18P4 - Fundamentos de Sistemas de Informação */
+
+}
+
+span.s_21 { /* subject G18P4 - Engenharia de Requisitos */
+
+}
+
+span.s_22 { /* subject G18P4 - Engenharia de Software I */
+
+}
+
+span.s_23 { /* subject G18P4 - Tópicos em Programação II */
+
+}
+
+span.s_24 { /* subject G18P4 - Sistemas Operacionais */
+
+}
+
+span.s_25 { /* subject G18P4 - Aspectos Teóricos de Computação */
+
+}
+
+span.s_26 { /* subject G18P5 - Projeto Integrador II */
+
+}
+
+span.s_27 { /* subject G18P5 - Gestão Estratégica da Informação */
+
+}
+
+span.s_28 { /* subject G18P5 - Otimização para Sistemas */
+
+}
+
+span.s_29 { /* subject G18P5 - Engenharia de Software II */
+
+}
+
+span.s_30 { /* subject G18P5 - Computação Orientada a Serviços */
+
+}
+
+span.s_31 { /* subject G18P5 - Redes de Computadores I */
+
+}
+
+span.s_32 { /* subject G18P5 - Tópicos em Programação III */
+
+}
+
+span.s_33 { /* subject G18P6 - Estágio Supervisionado */
+
+}
+
+span.s_34 { /* subject G18P6 - Interface Humano- Computador */
+
+}
+
+span.s_35 { /* subject G18P6 - Governança de TI */
+
+}
+
+span.s_36 { /* subject G18P6 - Engenharia de Qualidade */
+
+}
+
+span.s_37 { /* subject G18P6 - Estatística Computacional */
+
+}
+
+span.s_38 { /* subject G18P6 - Inteligência Artificial */
+
+}
+
+span.s_39 { /* subject G18P6 - Redes de Computadores II */
+
+}
+
+span.s_40 { /* subject G18P6 - Programação para Dispositivos Móveis I */
+
+}
+
+span.s_41 { /* subject G18P7 - Elaboração e Gestão de Projetos */
+
+}
+
+span.s_42 { /* subject G18P7 - Sistemas Distribuídos */
+
+}
+
+span.s_43 { /* subject G18P7 - Mineração de dados */
+
+}
+
+span.s_44 { /* subject G18P7 - Optativa I */
+
+}
+
+span.s_45 { /* subject G18P7 - Programação para Dispositivos Móveis II */
+
+}
+
+span.s_46 { /* subject G18P7 - Projeto de Conclusão de Curso */
+
+}
+
+span.s_47 { /* subject G18P8 - Segurança e Auditoria de Sistemas */
+
+}
+
+span.s_48 { /* subject G18P8 - Direito e Legislação em Informática */
+
+}
+
+span.s_49 { /* subject G18P8 - Simulação de Sistemas de Informação */
+
+}
+
+span.s_50 { /* subject G18P8 - Infraestrutura de Redes como Serviços */
+
+}
+
+span.s_51 { /* subject G18P8 - Optativa II */
+
+}
+
+span.s_52 { /* subject G18P8 - Trabalho de Conclusão de Curso */
+
+}
+
+span.s_53 { /* subject G10P1 - Matemática Computacional */
+
+}
+
+span.s_54 { /* subject G10P1 - Lógica Matemática */
+
+}
+
+span.s_55 { /* subject G10P1 - Fundamentos da Computação */
+
+}
+
+span.s_56 { /* subject G10P1 - Algoritmos e Estruturas de Dados I */
+
+}
+
+span.s_57 { /* subject G10P1 - Laboratório de Programação I */
+
+}
+
+span.s_58 { /* subject G10P1 - Leitura e Prática de Produção Textual */
+
+}
+
+span.s_59 { /* subject G10P1 - Metodologia Científica e da Pesquisa */
+
+}
+
+span.s_60 { /* subject G10P2 - Cálculo Diferencial e Integral */
+
+}
+
+span.s_61 { /* subject G10P2 - Teorias da Administração */
+
+}
+
+span.s_62 { /* subject G10P2 - Arquitetura e Organização de Computadores */
+
+}
+
+span.s_63 { /* subject G10P2 - Algoritmos e Estruturas de Dados II */
+
+}
+
+span.s_64 { /* subject G10P2 - Laboratório de Programação II */
+
+}
+
+span.s_65 { /* subject G10P2 - Matrizes Epistemológicas da Informação e da Comunicação */
+
+}
+
+span.s_66 { /* subject G10P3 - Fundamentos de Sistemas de Informação */
+
+}
+
+span.s_67 { /* subject G10P3 - Banco de Dados I */
+
+}
+
+span.s_68 { /* subject G10P3 - Algoritmos e Estruturas de Dados III */
+
+}
+
+span.s_69 { /* subject G10P3 - Linguagens e Técnicas de Programação I */
+
+}
+
+span.s_70 { /* subject G10P3 - Sistemas Operacionais */
+
+}
+
+span.s_71 { /* subject G10P3 - Probabilidade e Estatística */
+
+}
+
+span.s_72 { /* subject G10P4 - Engenharia de Software I */
+
+}
+
+span.s_73 { /* subject G10P4 - Banco de Dados II */
+
+}
+
+span.s_74 { /* subject G10P4 - Linguagens e Técnicas de Programação II */
+
+}
+
+span.s_75 { /* subject G10P4 - Aspectos Teóricos de Computação */
+
+}
+
+span.s_76 { /* subject G10P4 - Pesquisa Operacional */
+
+}
+
+span.s_77 { /* subject G10P4 - Gestão da Informação */
+
+}
+
+span.s_78 { /* subject G10P5 - Fundamentos de Inteligência Artificial */
+
+}
+
+span.s_79 { /* subject G10P5 - Linguagens de Programação Web I */
+
+}
+
+span.s_80 { /* subject G10P5 - Engenharia de Software II */
+
+}
+
+span.s_81 { /* subject G10P5 - Redes de Computadores I */
+
+}
+
+span.s_82 { /* subject G10P5 - Simulação */
+
+}
+
+span.s_83 { /* subject G10P5 - Introdução à Economia */
+
+}
+
+span.s_84 { /* subject G10P6 - Linguagens de Programação Web II */
+
+}
+
+span.s_85 { /* subject G10P6 - Redes de Computadores II */
+
+}
+
+span.s_86 { /* subject G10P6 - Sistemas Multimídia */
+
+}
+
+span.s_87 { /* subject G10P6 - Mineração de dados */
+
+}
+
+span.s_88 { /* subject G10P6 - Computação Gráfica */
+
+}
+
+span.s_89 { /* subject G10P6 - Elaboração e Gestão de Projetos */
+
+}
+
+span.s_90 { /* subject G10P7 - Sistemas Distribuídos */
+
+}
+
+span.s_91 { /* subject G10P7 - Programação para Dispositivos Móveis */
+
+}
+
+span.s_92 { /* subject G10P7 - Administração e Gerência de Redes */
+
+}
+
+span.s_93 { /* subject G10P7 - Interação Humano-Computador */
+
+}
+
+span.s_94 { /* subject G10P7 - Projeto de Conclusão de Curso */
+
+}
+
+span.s_95 { /* subject G10P7 - Optativa I */
+
+}
+
+span.s_96 { /* subject G10P7 - Estágio Supervisionado */
+
+}
+
+span.s_97 { /* subject G10P8 - Direito e Legislação em Informática */
+
+}
+
+span.s_98 { /* subject G10P8 - Empreededorismo */
+
+}
+
+span.s_99 { /* subject G10P8 - Segurança e Auditoria de Sistemas */
+
+}
+
+span.s_100 { /* subject G10P8 - Optativa II */
+
+}
+
+span.s_101 { /* subject G10P8 - Trabalho de Conclusão de Curso */
+
+}
+
+span.ss_1 { /* students set G18P1 */
+
+}
+
+span.ss_4 { /* students set G18P2 */
+
+}
+
+span.ss_7 { /* students set G18P3 */
+
+}
+
+span.ss_10 { /* students set G18P4 */
+
+}
+
+span.ss_16 { /* students set G18P6 */
+
+}
+
+span.ss_40 { /* students set G10P6 */
+
+}
+
+span.ss_43 { /* students set G10P7 */
+
+}
+
+span.ss_46 { /* students set G10P8 */
+
+}
+
+span.ss_49 { /* students set G10PR */
+
+}
+
+span.t_1 { /* teacher Alex Coelho */
+
+}
+
+span.t_2 { /* teacher Carlos Henrique */
+
+}
+
+span.t_3 { /* teacher Danilo Queiroz */
+
+}
+
+span.t_4 { /* teacher Darlene Teixeira */
+
+}
+
+span.t_5 { /* teacher Douglas Chagas */
+
+}
+
+span.t_6 { /* teacher Fredson Costa */
+
+}
+
+span.t_7 { /* teacher Janaina Senem */
+
+}
+
+span.t_8 { /* teacher Jânio Teixeira */
+
+}
+
+span.t_9 { /* teacher Jocivan Suassone */
+
+}
+
+span.t_10 { /* teacher Joelson Delfino */
+
+}
+
+span.t_11 { /* teacher John Max */
+
+}
+
+span.t_12 { /* teacher Itamar Júnior */
+
+}
+
+span.t_13 { /* teacher José Cabral */
+
+}
+
+span.t_14 { /* teacher Lígia Felix */
+
+}
+
+span.t_15 { /* teacher Mailson Santos */
+
+}
+
+span.t_16 { /* teacher Marcelo Ribeiro */
+
+}
+
+span.t_17 { /* teacher Marco Antonio */
+
+}
+
+span.t_18 { /* teacher Napoleão Póvoa */
+
+}
+
+span.t_19 { /* teacher Odi Alexandre */
+
+}
+
+span.t_20 { /* teacher Rafael Bosso */
+
+}
+
+span.t_21 { /* teacher Rodrigo Barbosa */
+
+}
+
+span.t_22 { /* teacher Silvano Malfatti */
+
+}
+
+span.t_23 { /* teacher Thaysi Castro */
+
+}
+
+span.r_1 { /* room LABIN I */
+
+}
+
+span.r_2 { /* room LABIN II */
+
+}
+
+span.r_3 { /* room LABIN III */
+
+}
+
+span.r_4 { /* room LABIN IV */
+
+}
+
+span.r_5 { /* room LABIN V */
+
+}
+
+span.r_6 { /* room Sala 1 */
+
+}
+
+span.r_7 { /* room Sala 2 */
+
+}
+
+span.r_8 { /* room Sala 3 */
+
+}
+
+span.r_9 { /* room Sala 4 */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
 /* Completar as horas livres dos professores */
 
 div.DESCRIPTION {
   text-align: left;
   font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
 }
 
 /* Final do arquivo. */

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.37.5">
+<fet version="5.38.1">
 
 <Institution_Name>UNITINS - Sistemas de Informação</Institution_Name>
 
@@ -1374,7 +1374,23 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>G10PR</Students>
-	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado - Manhã</Day>
 		<Hour>Aula 1</Hour>
@@ -1922,6 +1938,24 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 2</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
 </Time_Constraints_List>
 
 <Space_Constraints_List>
@@ -2086,8 +2120,8 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P4 - Projeto Integrador I</Subject>
 	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN II</Preferred_Room>
 	<Preferred_Room>LABIN IV</Preferred_Room>
+	<Preferred_Room>LABIN I</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRooms>
@@ -2166,15 +2200,6 @@
 </ConstraintSubjectPreferredRooms>
 <ConstraintSubjectPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Subject>G18P7 - Mineração de dados</Subject>
-	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN II</Preferred_Room>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintSubjectPreferredRooms>
-<ConstraintSubjectPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P8 - Infraestrutura de Redes como Serviços</Subject>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
 	<Preferred_Room>LABIN II</Preferred_Room>
@@ -2186,6 +2211,34 @@
 	<Subject>G10P8 - Segurança e Auditoria de Sistemas</Subject>
 	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
 	<Preferred_Room>LABIN III</Preferred_Room>
+	<Preferred_Room>LABIN IV</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>G10P6 - Mineração de dados</Subject>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>LABIN II</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>G10P8 - Optativa II</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LABIN I</Preferred_Room>
+	<Preferred_Room>LABIN II</Preferred_Room>
+	<Preferred_Room>LABIN IV</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>G10P5 - Simulação</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LABIN I</Preferred_Room>
+	<Preferred_Room>LABIN II</Preferred_Room>
 	<Preferred_Room>LABIN IV</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>

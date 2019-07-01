@@ -35,10 +35,10 @@
    </Day>
    <Day name="Sexta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P2 - Lógica Matemática"></Subject><Students name="G18P2"></Students>
+     <Subject name="G18P4 - Fundamentos de Sistemas de Informação"></Subject><Students name="G18P4"></Students>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P4 - Fundamentos de Sistemas de Informação"></Subject><Students name="G18P4"></Students>
+     <Subject name="G18P2 - Lógica Matemática"></Subject><Students name="G18P2"></Students>
     </Hour>
    </Day>
    <Day name="Sábado - Manhã">
@@ -61,10 +61,10 @@
   <Teacher name="Carlos Henrique">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN II"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G18P3 - Banco de Dados II"></Subject><Students name="G18P3"></Students><Room name="LABIN II"></Room>
     </Hour>
    </Day>
    <Day name="Terça-feira">
@@ -85,18 +85,18 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G10P3 - Algoritmos e Estruturas de Dados III"></Subject><Students name="G10PR"></Students>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G10P3 - Algoritmos e Estruturas de Dados III"></Subject><Students name="G10PR"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P3 - Algoritmos e Estruturas de Dados III"></Subject><Students name="G10PR"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P3 - Algoritmos e Estruturas de Dados III"></Subject><Students name="G10PR"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado - Manhã">
@@ -159,10 +159,10 @@
    </Day>
    <Day name="Sábado - Manhã">
     <Hour name="Aula 1">
-     <Subject name="G18P4 - Projeto Integrador I"></Subject><Students name="G18P4"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G18P4 - Projeto Integrador I"></Subject><Students name="G18P4"></Students><Room name="LABIN I"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P4 - Projeto Integrador I"></Subject><Students name="G18P4"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G18P4 - Projeto Integrador I"></Subject><Students name="G18P4"></Students><Room name="LABIN I"></Room>
     </Hour>
    </Day>
    <Day name="Sábado - Tarde">
@@ -293,10 +293,10 @@
   <Teacher name="Fredson Costa">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students>
     </Hour>
    </Day>
    <Day name="Terça-feira">
@@ -317,18 +317,18 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P6 - Elaboração e Gestão de Projetos"></Subject><Students name="G10P6"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P4 - Engenharia de Requisitos"></Subject><Students name="G18P4"></Students>
+     <Subject name="G18P2 - Gestão de Processos Empresariais"></Subject><Students name="G18P2"></Students>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P2 - Gestão de Processos Empresariais"></Subject><Students name="G18P2"></Students>
+     <Subject name="G18P4 - Engenharia de Requisitos"></Subject><Students name="G18P4"></Students>
     </Hour>
    </Day>
    <Day name="Sábado - Manhã">
@@ -359,10 +359,10 @@
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P3 - Metodologia Científica e da Pesquisa"></Subject><Students name="G18P3"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G18P3 - Metodologia Científica e da Pesquisa"></Subject><Students name="G18P3"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-feira">
@@ -483,18 +483,18 @@
    </Day>
    <Day name="Quarta-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G10P5 - Simulação"></Subject><Students name="G10PR"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G10P5 - Simulação"></Subject><Students name="G10PR"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P5 - Simulação"></Subject><Students name="G10PR"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P5 - Simulação"></Subject><Students name="G10PR"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -507,10 +507,10 @@
    </Day>
    <Day name="Sábado - Manhã">
     <Hour name="Aula 1">
-     <Subject name="G18P3 - Estruturas de Dados"></Subject><Students name="G18P3"></Students><Room name="LABIN II"></Room>
+     <Subject name="G18P3 - Estruturas de Dados"></Subject><Students name="G18P3"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P3 - Estruturas de Dados"></Subject><Students name="G18P3"></Students><Room name="LABIN II"></Room>
+     <Subject name="G18P3 - Estruturas de Dados"></Subject><Students name="G18P3"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Sábado - Tarde">
@@ -657,18 +657,18 @@
    </Day>
    <Day name="Quarta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -823,26 +823,26 @@
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G18P1 - Arquitetura e Organização de Computadores I"></Subject><Students name="G18P1"></Students>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G18P1 - Arquitetura e Organização de Computadores I"></Subject><Students name="G18P1"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P1 - Arquitetura e Organização de Computadores I"></Subject><Students name="G18P1"></Students>
+     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN V"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P1 - Arquitetura e Organização de Computadores I"></Subject><Students name="G18P1"></Students>
+     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN V"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN V"></Room>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P6 - Redes de Computadores II"></Subject><Students name="G18P6"></Students><Room name="LABIN V"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -873,18 +873,18 @@
   <Teacher name="Marcelo Ribeiro">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P6 - Sistemas Multimídia"></Subject><Students name="G10PR"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P6 - Sistemas Multimídia"></Subject><Students name="G10PR"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G10P6 - Sistemas Multimídia"></Subject><Students name="G10PR"></Students>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G10P6 - Sistemas Multimídia"></Subject><Students name="G10PR"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-feira">
@@ -905,10 +905,10 @@
    </Day>
    <Day name="Sexta-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Sábado - Manhã">
@@ -971,10 +971,10 @@
    </Day>
    <Day name="Sábado - Manhã">
     <Hour name="Aula 1">
-     <Subject name="G10P6 - Mineração de dados"></Subject><Students name="G10P6"></Students>
+     <Subject name="G10P6 - Mineração de dados"></Subject><Students name="G10P6"></Students><Room name="LABIN II"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P6 - Mineração de dados"></Subject><Students name="G10P6"></Students>
+     <Subject name="G10P6 - Mineração de dados"></Subject><Students name="G10P6"></Students><Room name="LABIN II"></Room>
     </Hour>
    </Day>
    <Day name="Sábado - Tarde">
@@ -1055,18 +1055,18 @@
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P1 - Leitura e Prática de Produção Textual"></Subject><Students name="G18P1"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P1 - Leitura e Prática de Produção Textual"></Subject><Students name="G18P1"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quarta-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G18P1 - Leitura e Prática de Produção Textual"></Subject><Students name="G18P1"></Students>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G18P1 - Leitura e Prática de Produção Textual"></Subject><Students name="G18P1"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-feira">
@@ -1105,18 +1105,18 @@
   <Teacher name="Rafael Bosso">
    <Day name="Segunda-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students>
     </Hour>
     <Hour name="Aula 2">
-     
+     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students>
     </Hour>
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P6 - Estatística Computacional"></Subject><Students name="G18P6"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quarta-feira">
@@ -1171,10 +1171,10 @@
    </Day>
    <Day name="Terça-feira">
     <Hour name="Aula 1">
-     
+     <Subject name="G18P3 - Sociedade e Tecnologia"></Subject><Students name="G18P3"></Students>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P3 - Sociedade e Tecnologia"></Subject><Students name="G18P3"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quarta-feira">
@@ -1245,10 +1245,10 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P7"></Students>
+     
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P7"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-feira">
