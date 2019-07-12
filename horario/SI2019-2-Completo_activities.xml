@@ -70,19 +70,19 @@
 	<Id>12</Id>
 	<Day>Segunda-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 10</Room>
 </Activity>
 <Activity>
 	<Id>13</Id>
 	<Day>Terça-feira</Day>
 	<Hour>Aula 2</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 10</Room>
 </Activity>
 <Activity>
 	<Id>14</Id>
 	<Day>Terça-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 10</Room>
 </Activity>
 <Activity>
 	<Id>15</Id>
@@ -106,7 +106,7 @@
 	<Id>18</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco B Sala 10</Room>
 </Activity>
 <Activity>
 	<Id>19</Id>
@@ -118,7 +118,7 @@
 	<Id>21</Id>
 	<Day>Sexta-feira</Day>
 	<Hour>Aula 2</Hour>
-	<Room>LABIN IV</Room>
+	<Room>LABIN III</Room>
 </Activity>
 <Activity>
 	<Id>22</Id>
@@ -166,25 +166,25 @@
 	<Id>35</Id>
 	<Day>Sábado - Tarde</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco A Sala 11</Room>
 </Activity>
 <Activity>
 	<Id>37</Id>
 	<Day>Sábado - Tarde</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala de Reuniões</Room>
 </Activity>
 <Activity>
 	<Id>38</Id>
 	<Day>Sexta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN IV</Room>
+	<Room>LABIN III</Room>
 </Activity>
 <Activity>
 	<Id>39</Id>
 	<Day>Sexta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN III</Room>
+	<Room>LABIN IV</Room>
 </Activity>
 <Activity>
 	<Id>40</Id>
@@ -220,12 +220,12 @@
 	<Id>45</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN IV</Room>
+	<Room>LABIN II</Room>
 </Activity>
 <Activity>
 	<Id>46</Id>
 	<Day>Quarta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 7</Room>
+	<Room>Bloco A Sala 10 (Tarde)</Room>
 </Activity>
 </Activities_Timetable>
