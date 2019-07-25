@@ -838,7 +838,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Jocivan Suassone</Teacher>
+	<Teacher>Itamar Júnior</Teacher>
 	<Subject>G18P3 - Estruturas de Dados</Subject>
 	<Students>G18P3</Students>
 	<Duration>2</Duration>
@@ -1175,6 +1175,24 @@
 </Room>
 <Room>
 	<Name>Bloco A Sala de Reuniões</Name>
+	<Building>Bloco A</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Bloco A Sala 1</Name>
+	<Building>Bloco A</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Bloco A Sala 5</Name>
+	<Building>Bloco A</Building>
+	<Capacity>30000</Capacity>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>Bloco A Sala 6</Name>
 	<Building>Bloco A</Building>
 	<Capacity>30000</Capacity>
 	<Comments></Comments>
@@ -2488,77 +2506,77 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P4 - Aspectos Teóricos de Computação</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P6 - Estatística Computacional</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco A Sala 5</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P1 - Arquitetura e Organização de Computadores I</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Sociedade e Tecnologia</Subject>
-	<Room>Bloco B Sala 10</Room>
+	<Room>Bloco A Sala 6</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Metodologia Científica e da Pesquisa</Subject>
-	<Room>Bloco B Sala 10</Room>
+	<Room>Bloco A Sala 6</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P1 - Leitura e Prática de Produção Textual</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P2 - Pré-Cálculo</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco A Sala 5</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Empreendedorismo e Arquitetura Empresarial</Subject>
-	<Room>Bloco B Sala 10</Room>
+	<Room>Bloco A Sala 6</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P4 - Engenharia de Software I</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P1 - Inglês Instrumental</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P3 - Cálculo Diferencial e Integral</Subject>
-	<Room>Bloco B Sala 10</Room>
+	<Room>Bloco A Sala 6</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2585,35 +2603,35 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P2 - Gestão de Processos Empresariais</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco A Sala 5</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G18P2 - Lógica Matemática</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco A Sala 5</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P8 - Direito e Legislação em Informática</Subject>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P7 - Estágio Supervisionado</Subject>
-	<Room>Bloco A Sala 10 (Tarde)</Room>
+	<Room>Bloco A Sala 6</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P7 - Projeto de Conclusão de Curso</Subject>
-	<Room>Bloco A Sala 11</Room>
+	<Room>Bloco A Sala 6</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
@@ -2635,7 +2653,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>2</Activity_Id>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2643,7 +2661,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>5</Activity_Id>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2659,7 +2677,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>4</Activity_Id>
-	<Room>Bloco B Sala 1</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2667,7 +2685,7 @@
 <ConstraintSubjectPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Subject>G10P6 - Elaboração e Gestão de Projetos</Subject>
-	<Room>Bloco B Sala 2</Room>
+	<Room>Bloco A Sala 5</Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintSubjectPreferredRoom>
