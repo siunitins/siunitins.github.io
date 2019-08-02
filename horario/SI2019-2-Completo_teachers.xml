@@ -35,7 +35,7 @@
    </Day>
    <Day name="Sexta-feira">
     <Hour name="Aula 1">
-     <Subject name="G18P4 - Fundamentos de Sistemas de Informação"></Subject><Students name="G18P4"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G18P4 - Fundamentos de Sistemas de Informação"></Subject><Students name="G18P4"></Students><Room name="LABIN III"></Room>
     </Hour>
     <Hour name="Aula 2">
      <Subject name="G18P2 - Lógica Matemática"></Subject><Students name="G18P2"></Students><Room name="Bloco A Sala 5"></Room>
@@ -43,10 +43,10 @@
    </Day>
    <Day name="Sábado - Manhã">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Direito e Legislação em Informática"></Subject><Students name="G10P8"></Students><Room name="Bloco B Sala 10"></Room>
+     <Subject name="G10P8 - Direito e Legislação em Informática"></Subject><Students name="G10P8"></Students><Room name="Bloco A Sala 1"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Direito e Legislação em Informática"></Subject><Students name="G10P8"></Students><Room name="Bloco B Sala 10"></Room>
+     <Subject name="G10P8 - Direito e Legislação em Informática"></Subject><Students name="G10P8"></Students><Room name="Bloco A Sala 1"></Room>
     </Hour>
    </Day>
    <Day name="Sábado - Tarde">
@@ -328,7 +328,7 @@
      <Subject name="G18P2 - Gestão de Processos Empresariais"></Subject><Students name="G18P2"></Students><Room name="Bloco A Sala 5"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G18P4 - Engenharia de Requisitos"></Subject><Students name="G18P4"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G18P4 - Engenharia de Requisitos"></Subject><Students name="G18P4"></Students><Room name="LABIN III"></Room>
     </Hour>
    </Day>
    <Day name="Sábado - Manhã">
@@ -665,10 +665,10 @@
    </Day>
    <Day name="Quinta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN II"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
+     <Subject name="G10P8 - Optativa II"></Subject><Students name="G10P8"></Students><Room name="LABIN II"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-feira">
@@ -847,10 +847,10 @@
    </Day>
    <Day name="Sexta-feira">
     <Hour name="Aula 1">
-     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN III"></Room>
+     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
     <Hour name="Aula 2">
-     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN III"></Room>
+     <Subject name="G10P8 - Segurança e Auditoria de Sistemas"></Subject><Students name="G10P8"></Students><Room name="LABIN IV"></Room>
     </Hour>
    </Day>
    <Day name="Sábado - Manhã">

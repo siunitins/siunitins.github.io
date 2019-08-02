@@ -118,7 +118,7 @@
 	<Id>21</Id>
 	<Day>Sexta-feira</Day>
 	<Hour>Aula 2</Hour>
-	<Room>LABIN IV</Room>
+	<Room>LABIN III</Room>
 </Activity>
 <Activity>
 	<Id>22</Id>
@@ -160,7 +160,7 @@
 	<Id>34</Id>
 	<Day>Sábado - Manhã</Day>
 	<Hour>Aula 1</Hour>
-	<Room>Bloco B Sala 10</Room>
+	<Room>Bloco A Sala 1</Room>
 </Activity>
 <Activity>
 	<Id>35</Id>
@@ -178,13 +178,13 @@
 	<Id>38</Id>
 	<Day>Sexta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN IV</Room>
+	<Room>LABIN III</Room>
 </Activity>
 <Activity>
 	<Id>39</Id>
 	<Day>Sexta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN III</Room>
+	<Room>LABIN IV</Room>
 </Activity>
 <Activity>
 	<Id>40</Id>
@@ -220,7 +220,7 @@
 	<Id>45</Id>
 	<Day>Quinta-feira</Day>
 	<Hour>Aula 1</Hour>
-	<Room>LABIN IV</Room>
+	<Room>LABIN II</Room>
 </Activity>
 <Activity>
 	<Id>46</Id>
