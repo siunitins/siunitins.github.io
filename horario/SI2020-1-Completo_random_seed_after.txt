@@ -1,0 +1,5 @@
+﻿Geração concluída em: 29/11/2019 08:04
+
+Semente randômica no fim da geração é: X=1917224939, Y=987136128
+
+Esse arquivo foi gerado automaticamente por FET 5.38.1.
