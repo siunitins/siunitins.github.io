@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 
-/* Folha de estilo CSS de SI2019-2-Completo.fet
-   Folha de estilos gerada por FET 5.38.1 em 01/07/2019 20:31 */
+/* Folha de estilo CSS de SI2020-1-Completo.fet
+   Folha de estilos gerada por FET 5.40.3 em 29/11/2019 17:19 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -493,23 +493,15 @@ span.ss_10 { /* students set G18P4 */
 
 }
 
-span.ss_16 { /* students set G18P6 */
+span.ss_13 { /* students set G18P5 */
 
 }
 
-span.ss_40 { /* students set G10P6 */
+span.ss_16 { /* students set G10P7 */
 
 }
 
-span.ss_43 { /* students set G10P7 */
-
-}
-
-span.ss_46 { /* students set G10P8 */
-
-}
-
-span.ss_49 { /* students set G10PR */
+span.ss_19 { /* students set G10PR */
 
 }
 
@@ -537,7 +529,7 @@ span.t_6 { /* teacher Fredson Costa */
 
 }
 
-span.t_7 { /* teacher Janaina Senem */
+span.t_7 { /* teacher Itamar Júnior */
 
 }
 
@@ -545,63 +537,47 @@ span.t_8 { /* teacher Jânio Teixeira */
 
 }
 
-span.t_9 { /* teacher Jocivan Suassone */
+span.t_9 { /* teacher Jânio Teixeira e Silvano Malfatti */
 
 }
 
-span.t_10 { /* teacher Joelson Delfino */
+span.t_10 { /* teacher Jocivan Suassone */
 
 }
 
-span.t_11 { /* teacher John Max */
+span.t_11 { /* teacher Joelson Delfino */
 
 }
 
-span.t_12 { /* teacher Itamar Júnior */
+span.t_12 { /* teacher Lígia Felix */
 
 }
 
-span.t_13 { /* teacher José Cabral */
+span.t_13 { /* teacher Mailson Santos */
 
 }
 
-span.t_14 { /* teacher Lígia Felix */
+span.t_14 { /* teacher Marcelo Ribeiro */
 
 }
 
-span.t_15 { /* teacher Mailson Santos */
+span.t_15 { /* teacher Marco Antonio */
 
 }
 
-span.t_16 { /* teacher Marcelo Ribeiro */
+span.t_16 { /* teacher Napoleão Póvoa */
 
 }
 
-span.t_17 { /* teacher Marco Antonio */
+span.t_17 { /* teacher Odi Alexandre */
 
 }
 
-span.t_18 { /* teacher Napoleão Póvoa */
+span.t_18 { /* teacher Rafael Bosso */
 
 }
 
-span.t_19 { /* teacher Odi Alexandre */
-
-}
-
-span.t_20 { /* teacher Rafael Bosso */
-
-}
-
-span.t_21 { /* teacher Rodrigo Barbosa */
-
-}
-
-span.t_22 { /* teacher Silvano Malfatti */
-
-}
-
-span.t_23 { /* teacher Thaysi Castro */
+span.t_19 { /* teacher Rodrigo Barbosa */
 
 }
 
@@ -613,35 +589,31 @@ span.r_2 { /* room LABIN II */
 
 }
 
-span.r_3 { /* room LABIN II (NOITE) */
+span.r_3 { /* room LABIN III */
 
 }
 
-span.r_4 { /* room LABIN III */
+span.r_4 { /* room LABIN IV */
 
 }
 
-span.r_5 { /* room LABIN IV */
+span.r_5 { /* room LABIN V */
 
 }
 
-span.r_6 { /* room LABIN V */
+span.r_6 { /* room Bloco A Sala 1 */
 
 }
 
-span.r_7 { /* room Bloco B Sala 1 */
+span.r_7 { /* room Bloco A Sala 5 */
 
 }
 
-span.r_8 { /* room Bloco B Sala 2 */
+span.r_8 { /* room Bloco A Sala 6 */
 
 }
 
-span.r_9 { /* room Bloco B Sala 7 */
-
-}
-
-span.r_10 { /* room Bloco B Sala 14 */
+span.r_9 { /* room Bloco A Sala 12 */
 
 }
 
@@ -711,12 +683,12 @@ tr.line1, div.line1 {
 
 tr.line2, div.line2 {
   font-size: smaller;
-  color: rgb(87, 86, 86);
+  color: gray;
 }
 
 tr.line3, div.line3 {
   font-size: smaller;
-  color: rgb(61, 59, 59);
+  color: silver;
 }
 
 /* Completar as horas livres dos professores */
