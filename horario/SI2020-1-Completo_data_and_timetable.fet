@@ -4,7 +4,7 @@
 
 <Institution_Name>UNITINS - Sistemas de Informação</Institution_Name>
 
-<Comments>Semestre 2019/2</Comments>
+<Comments>Semestre 2020/1</Comments>
 
 <Days_List>
 <Number_of_Days>7</Number_of_Days>
@@ -596,37 +596,37 @@
 
 <Students_List>
 <Year>
-	<Name>G18P1</Name>
+	<Name>1º Período da Grade 2018 - G18P1</Name>
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
 <Year>
-	<Name>G18P2</Name>
+	<Name>2º Período da Grade 2018 - G18P2</Name>
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
 <Year>
-	<Name>G18P3</Name>
+	<Name>3º Período da Grade 2018 - G18P3</Name>
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
 <Year>
-	<Name>G18P4</Name>
+	<Name>4º Período da Grade 2018 - G18P4</Name>
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
 <Year>
-	<Name>G18P5</Name>
+	<Name>5º Período da Grade 2018 - G18P5</Name>
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
 <Year>
-	<Name>G10P7</Name>
+	<Name>7º Período da Grade 2010 - G10P7</Name>
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
 <Year>
-	<Name>G10PR</Name>
+	<Name>Regularização/Dependência - Grade 2010 - G10RD</Name>
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
@@ -636,7 +636,7 @@
 <Activity>
 	<Teacher>Alex Coelho</Teacher>
 	<Subject>G18P2 - Lógica Matemática</Subject>
-	<Students>G18P2</Students>
+	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>1</Id>
@@ -647,7 +647,7 @@
 <Activity>
 	<Teacher>Alex Coelho</Teacher>
 	<Subject>G18P3 - Sociedade e Tecnologia</Subject>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>2</Id>
@@ -658,7 +658,7 @@
 <Activity>
 	<Teacher>Alex Coelho</Teacher>
 	<Subject>G18P4 - Engenharia de Software I</Subject>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>3</Id>
@@ -669,7 +669,7 @@
 <Activity>
 	<Teacher>Alex Coelho</Teacher>
 	<Subject>G18P5 - Gestão Estratégica da Informação</Subject>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>4</Id>
@@ -681,7 +681,7 @@
 	<Teacher>Carlos Henrique</Teacher>
 	<Teacher>Silvano Malfatti</Teacher>
 	<Subject>G18P1 - Algoritmos e Programação I</Subject>
-	<Students>G18P1</Students>
+	<Students>1º Período da Grade 2018 - G18P1</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>5</Id>
@@ -692,7 +692,7 @@
 <Activity>
 	<Teacher>Carlos Henrique</Teacher>
 	<Subject>G18P2 - Banco de Dados I</Subject>
-	<Students>G18P2</Students>
+	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>6</Id>
@@ -703,7 +703,7 @@
 <Activity>
 	<Teacher>Carlos Henrique</Teacher>
 	<Subject>G18P3 - Banco de Dados II</Subject>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>7</Id>
@@ -714,7 +714,7 @@
 <Activity>
 	<Teacher>Danilo Queiroz</Teacher>
 	<Subject>G18P1 - Desenvolvimento Front-end</Subject>
-	<Students>G18P1</Students>
+	<Students>1º Período da Grade 2018 - G18P1</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>8</Id>
@@ -725,7 +725,7 @@
 <Activity>
 	<Teacher>Danilo Queiroz</Teacher>
 	<Subject>G18P5 - Projeto Integrador II</Subject>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>9</Id>
@@ -736,7 +736,7 @@
 <Activity>
 	<Teacher>Darlene Teixeira</Teacher>
 	<Subject>G10P7 - Projeto de Conclusão de Curso</Subject>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>10</Id>
@@ -747,7 +747,7 @@
 <Activity>
 	<Teacher>Douglas Chagas</Teacher>
 	<Subject>G10P8 - Trabalho de Conclusão de Curso</Subject>
-	<Students>G10PR</Students>
+	<Students>Regularização/Dependência - Grade 2010 - G10RD</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>11</Id>
@@ -758,7 +758,7 @@
 <Activity>
 	<Teacher>Alex Coelho</Teacher>
 	<Subject>G10P4 - Gestão da Informação</Subject>
-	<Students>G10PR</Students>
+	<Students>Regularização/Dependência - Grade 2010 - G10RD</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>12</Id>
@@ -769,7 +769,7 @@
 <Activity>
 	<Teacher>Sem Professor</Teacher>
 	<Subject>G18P2 - Gestão de Processos Empresariais</Subject>
-	<Students>G18P2</Students>
+	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>13</Id>
@@ -780,7 +780,7 @@
 <Activity>
 	<Teacher>Fredson Costa</Teacher>
 	<Subject>G18P4 - Projeto Integrador I</Subject>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>14</Id>
@@ -791,7 +791,7 @@
 <Activity>
 	<Teacher>Fredson Costa</Teacher>
 	<Subject>G18P4 - Engenharia de Requisitos</Subject>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>15</Id>
@@ -802,7 +802,7 @@
 <Activity>
 	<Teacher>Fredson Costa</Teacher>
 	<Subject>G18P5 - Engenharia de Software II</Subject>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>16</Id>
@@ -813,7 +813,7 @@
 <Activity>
 	<Teacher>Itamar Júnior</Teacher>
 	<Subject>G18P3 - Estruturas de Dados</Subject>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>17</Id>
@@ -824,7 +824,7 @@
 <Activity>
 	<Teacher>Itamar Júnior</Teacher>
 	<Subject>G18P4 - Aspectos Teóricos de Computação</Subject>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>18</Id>
@@ -835,7 +835,7 @@
 <Activity>
 	<Teacher>Itamar Júnior</Teacher>
 	<Subject>G18P5 - Tópicos em Programação III</Subject>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>19</Id>
@@ -846,7 +846,7 @@
 <Activity>
 	<Teacher>Jânio Teixeira</Teacher>
 	<Subject>G18P2 - Algoritmos e Programação II</Subject>
-	<Students>G18P2</Students>
+	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>20</Id>
@@ -857,7 +857,7 @@
 <Activity>
 	<Teacher>Jânio Teixeira</Teacher>
 	<Subject>G18P3 - Tópicos em Programação I</Subject>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>21</Id>
@@ -868,7 +868,7 @@
 <Activity>
 	<Teacher>Jânio Teixeira</Teacher>
 	<Subject>G18P4 - Tópicos em Programação II</Subject>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>22</Id>
@@ -879,7 +879,7 @@
 <Activity>
 	<Teacher>Jocivan Suassone</Teacher>
 	<Subject>G18P1 - Arquitetura e Organização de Computadores I</Subject>
-	<Students>G18P1</Students>
+	<Students>1º Período da Grade 2018 - G18P1</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>23</Id>
@@ -890,7 +890,7 @@
 <Activity>
 	<Teacher>Jocivan Suassone</Teacher>
 	<Subject>G10P7 - Programação para Dispositivos Móveis</Subject>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>24</Id>
@@ -901,7 +901,7 @@
 <Activity>
 	<Teacher>Jocivan Suassone</Teacher>
 	<Subject>G10P7 - Sistemas Distribuídos</Subject>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>25</Id>
@@ -912,7 +912,7 @@
 <Activity>
 	<Teacher>Joelson Delfino</Teacher>
 	<Subject>G18P3 - Cálculo Diferencial e Integral</Subject>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>26</Id>
@@ -923,7 +923,7 @@
 <Activity>
 	<Teacher>Lígia Felix</Teacher>
 	<Subject>G18P1 - Inglês Instrumental</Subject>
-	<Students>G18P1</Students>
+	<Students>1º Período da Grade 2018 - G18P1</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>27</Id>
@@ -934,7 +934,7 @@
 <Activity>
 	<Teacher>Mailson Santos</Teacher>
 	<Subject>G18P2 - Arquitetura e Organização de Computadores II</Subject>
-	<Students>G18P2</Students>
+	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>28</Id>
@@ -945,7 +945,7 @@
 <Activity>
 	<Teacher>Mailson Santos</Teacher>
 	<Subject>G18P5 - Redes de Computadores I</Subject>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>29</Id>
@@ -956,7 +956,7 @@
 <Activity>
 	<Teacher>Mailson Santos</Teacher>
 	<Subject>G10P7 - Administração e Gerência de Redes</Subject>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>30</Id>
@@ -967,7 +967,7 @@
 <Activity>
 	<Teacher>Marcelo Ribeiro</Teacher>
 	<Subject>G18P5 - Computação Orientada a Serviços</Subject>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>31</Id>
@@ -978,7 +978,7 @@
 <Activity>
 	<Teacher>Marcelo Ribeiro</Teacher>
 	<Subject>G10P7 - Interação Humano-Computador</Subject>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>32</Id>
@@ -989,7 +989,7 @@
 <Activity>
 	<Teacher>Marco Antonio</Teacher>
 	<Subject>G10P7 - Optativa I</Subject>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>33</Id>
@@ -1000,7 +1000,7 @@
 <Activity>
 	<Teacher>Napoleão Póvoa</Teacher>
 	<Subject>G18P3 - Empreendedorismo e Arquitetura Empresarial</Subject>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>34</Id>
@@ -1011,7 +1011,7 @@
 <Activity>
 	<Teacher>Napoleão Póvoa</Teacher>
 	<Subject>G18P4 - Sistemas Operacionais</Subject>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>35</Id>
@@ -1022,7 +1022,7 @@
 <Activity>
 	<Teacher>Odi Alexandre</Teacher>
 	<Subject>G18P1 - Leitura e Prática de Produção Textual</Subject>
-	<Students>G18P1</Students>
+	<Students>1º Período da Grade 2018 - G18P1</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>36</Id>
@@ -1033,7 +1033,7 @@
 <Activity>
 	<Teacher>Rafael Bosso</Teacher>
 	<Subject>G18P2 - Pré-Cálculo</Subject>
-	<Students>G18P2</Students>
+	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>37</Id>
@@ -1044,7 +1044,7 @@
 <Activity>
 	<Teacher>Rafael Bosso</Teacher>
 	<Subject>G10P7 - Estágio Supervisionado</Subject>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>38</Id>
@@ -1055,7 +1055,7 @@
 <Activity>
 	<Teacher>Rodrigo Barbosa</Teacher>
 	<Subject>G18P3 - Metodologia Científica e da Pesquisa</Subject>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>39</Id>
@@ -1066,7 +1066,7 @@
 <Activity>
 	<Teacher>Fredson Costa</Teacher>
 	<Subject>G18P4 - Fundamentos de Sistemas de Informação</Subject>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>40</Id>
@@ -1077,7 +1077,7 @@
 <Activity>
 	<Teacher>Sem Professor</Teacher>
 	<Subject>G18P5 - Otimização para Sistemas</Subject>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
 	<Id>41</Id>
@@ -1169,7 +1169,7 @@
 </ConstraintBasicCompulsoryTime>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>G18P1</Students>
+	<Students>1º Período da Grade 2018 - G18P1</Students>
 	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Sábado - Manhã</Day>
@@ -1192,7 +1192,7 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>G18P2</Students>
+	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Sábado - Manhã</Day>
@@ -1215,7 +1215,7 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>G18P3</Students>
+	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Sábado - Tarde</Day>
@@ -1230,7 +1230,7 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>G18P4</Students>
+	<Students>4º Período da Grade 2018 - G18P4</Students>
 	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Sábado - Tarde</Day>
@@ -1245,14 +1245,14 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>G10P7</Students>
+	<Students>7º Período da Grade 2010 - G10P7</Students>
 	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>G10PR</Students>
+	<Students>Regularização/Dependência - Grade 2010 - G10RD</Students>
 	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-feira</Day>
@@ -1622,7 +1622,7 @@
 </ConstraintTeacherNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>G18P5</Students>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Sábado - Tarde</Day>
@@ -2383,7 +2383,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>9</Activity_Id>
-	<Room>LABIN III</Room>
+	<Room>LABIN IV</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2455,7 +2455,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>19</Activity_Id>
-	<Room>LABIN III</Room>
+	<Room>LABIN V</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
