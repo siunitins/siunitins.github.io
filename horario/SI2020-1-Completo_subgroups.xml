@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="G18P1 Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Carlos Henrique"></Teacher><Teacher name="Silvano Malfatti"></Teacher><Subject name="G18P1 - Algoritmos e Programação I"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Carlos Henrique"></Teacher><Teacher name="Silvano Malfatti"></Teacher><Subject name="G18P1 - Algoritmos e Programação I"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Jocivan Suassone"></Teacher><Subject name="G18P1 - Arquitetura e Organização de Computadores I"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Jocivan Suassone"></Teacher><Subject name="G18P1 - Arquitetura e Organização de Computadores I"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Odi Alexandre"></Teacher><Subject name="G18P1 - Leitura e Prática de Produção Textual"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Odi Alexandre"></Teacher><Subject name="G18P1 - Leitura e Prática de Produção Textual"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Danilo Queiroz"></Teacher><Subject name="G18P1 - Desenvolvimento Front-end"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Danilo Queiroz"></Teacher><Subject name="G18P1 - Desenvolvimento Front-end"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Lígia Felix"></Teacher><Subject name="G18P1 - Inglês Instrumental"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Lígia Felix"></Teacher><Subject name="G18P1 - Inglês Instrumental"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Manhã">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+   <Day name="Sábado - Tarde">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="G18P2 Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Rafael Bosso"></Teacher><Subject name="G18P2 - Pré-Cálculo"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Rafael Bosso"></Teacher><Subject name="G18P2 - Pré-Cálculo"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Mailson Santos"></Teacher><Subject name="G18P2 - Arquitetura e Organização de Computadores II"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Mailson Santos"></Teacher><Subject name="G18P2 - Arquitetura e Organização de Computadores II"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Jânio Teixeira"></Teacher><Subject name="G18P2 - Algoritmos e Programação II"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Jânio Teixeira"></Teacher><Subject name="G18P2 - Algoritmos e Programação II"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Sem Professor"></Teacher><Subject name="G18P2 - Gestão de Processos Empresariais"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Alex Coelho"></Teacher><Subject name="G18P2 - Lógica Matemática"></Subject><Room name="Bloco A Sala 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Carlos Henrique"></Teacher><Subject name="G18P2 - Banco de Dados I"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Carlos Henrique"></Teacher><Subject name="G18P2 - Banco de Dados I"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Manhã">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+   <Day name="Sábado - Tarde">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="G18P3 Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Joelson Delfino"></Teacher><Subject name="G18P3 - Cálculo Diferencial e Integral"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Joelson Delfino"></Teacher><Subject name="G18P3 - Cálculo Diferencial e Integral"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Napoleão Póvoa"></Teacher><Subject name="G18P3 - Empreendedorismo e Arquitetura Empresarial"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Napoleão Póvoa"></Teacher><Subject name="G18P3 - Empreendedorismo e Arquitetura Empresarial"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Itamar Júnior"></Teacher><Subject name="G18P3 - Estruturas de Dados"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Itamar Júnior"></Teacher><Subject name="G18P3 - Estruturas de Dados"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Jânio Teixeira"></Teacher><Subject name="G18P3 - Tópicos em Programação I"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Jânio Teixeira"></Teacher><Subject name="G18P3 - Tópicos em Programação I"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Rodrigo Barbosa"></Teacher><Subject name="G18P3 - Metodologia Científica e da Pesquisa"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Alex Coelho"></Teacher><Subject name="G18P3 - Sociedade e Tecnologia"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Manhã">
+    <Hour name="Aula 1">
+     <Teacher name="Carlos Henrique"></Teacher><Subject name="G18P3 - Banco de Dados II"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Carlos Henrique"></Teacher><Subject name="G18P3 - Banco de Dados II"></Subject><Room name="LABIN I"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Tarde">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="G18P4 Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Fredson Costa"></Teacher><Subject name="G18P4 - Projeto Integrador I"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Fredson Costa"></Teacher><Subject name="G18P4 - Projeto Integrador I"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Jânio Teixeira"></Teacher><Subject name="G18P4 - Tópicos em Programação II"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Jânio Teixeira"></Teacher><Subject name="G18P4 - Tópicos em Programação II"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Fredson Costa"></Teacher><Subject name="G18P4 - Engenharia de Requisitos"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Fredson Costa"></Teacher><Subject name="G18P4 - Fundamentos de Sistemas de Informação"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Napoleão Póvoa"></Teacher><Subject name="G18P4 - Sistemas Operacionais"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Napoleão Póvoa"></Teacher><Subject name="G18P4 - Sistemas Operacionais"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Itamar Júnior"></Teacher><Subject name="G18P4 - Aspectos Teóricos de Computação"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Itamar Júnior"></Teacher><Subject name="G18P4 - Aspectos Teóricos de Computação"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Manhã">
+    <Hour name="Aula 1">
+     <Teacher name="Alex Coelho"></Teacher><Subject name="G18P4 - Engenharia de Software I"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Alex Coelho"></Teacher><Subject name="G18P4 - Engenharia de Software I"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Tarde">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="G18P5 Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Danilo Queiroz"></Teacher><Subject name="G18P5 - Projeto Integrador II"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Danilo Queiroz"></Teacher><Subject name="G18P5 - Projeto Integrador II"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Fredson Costa"></Teacher><Subject name="G18P5 - Engenharia de Software II"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Fredson Costa"></Teacher><Subject name="G18P5 - Engenharia de Software II"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Mailson Santos"></Teacher><Subject name="G18P5 - Redes de Computadores I"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Mailson Santos"></Teacher><Subject name="G18P5 - Redes de Computadores I"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Alex Coelho"></Teacher><Subject name="G18P5 - Gestão Estratégica da Informação"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Sem Professor"></Teacher><Subject name="G18P5 - Otimização para Sistemas"></Subject><Room name="Bloco A Sala 5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Marcelo Ribeiro"></Teacher><Subject name="G18P5 - Computação Orientada a Serviços"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Marcelo Ribeiro"></Teacher><Subject name="G18P5 - Computação Orientada a Serviços"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Manhã">
+    <Hour name="Aula 1">
+     <Teacher name="Itamar Júnior"></Teacher><Subject name="G18P5 - Tópicos em Programação III"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Itamar Júnior"></Teacher><Subject name="G18P5 - Tópicos em Programação III"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Tarde">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="G10P7 Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Jocivan Suassone"></Teacher><Subject name="G10P7 - Programação para Dispositivos Móveis"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Jocivan Suassone"></Teacher><Subject name="G10P7 - Programação para Dispositivos Móveis"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Marcelo Ribeiro"></Teacher><Subject name="G10P7 - Interação Humano-Computador"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Marcelo Ribeiro"></Teacher><Subject name="G10P7 - Interação Humano-Computador"></Subject><Room name="LABIN II"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Jocivan Suassone"></Teacher><Subject name="G10P7 - Sistemas Distribuídos"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Jocivan Suassone"></Teacher><Subject name="G10P7 - Sistemas Distribuídos"></Subject><Room name="LABIN III"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Mailson Santos"></Teacher><Subject name="G10P7 - Administração e Gerência de Redes"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Mailson Santos"></Teacher><Subject name="G10P7 - Administração e Gerência de Redes"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Darlene Teixeira"></Teacher><Subject name="G10P7 - Projeto de Conclusão de Curso"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Darlene Teixeira"></Teacher><Subject name="G10P7 - Projeto de Conclusão de Curso"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Manhã">
+    <Hour name="Aula 1">
+     <Teacher name="Marco Antonio"></Teacher><Subject name="G10P7 - Optativa I"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Marco Antonio"></Teacher><Subject name="G10P7 - Optativa I"></Subject><Room name="LABIN IV"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sábado - Tarde">
+    <Hour name="Aula 1">
+     <Teacher name="Rafael Bosso"></Teacher><Subject name="G10P7 - Estágio Supervisionado"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Rafael Bosso"></Teacher><Subject name="G10P7 - Estágio Supervisionado"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="G10PR Grupo Automático Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Alex Coelho"></Teacher><Subject name="G10P4 - Gestão da Informação"></Subject>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Alex Coelho"></Teacher><Subject name="G10P4 - Gestão da Informação"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="Aula 1">
+     <Teacher name="Douglas Chagas"></Teacher><Subject name="G10P8 - Trabalho de Conclusão de Curso"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+    <Hour name="Aula 2">
+     <Teacher name="Douglas Chagas"></Teacher><Subject name="G10P8 - Trabalho de Conclusão de Curso"></Subject><Room name="LABIN V"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+   <Day name="Sábado - Manhã">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+   <Day name="Sábado - Tarde">
+    <Hour name="Aula 1">
+     
+    </Hour>
+    <Hour name="Aula 2">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
