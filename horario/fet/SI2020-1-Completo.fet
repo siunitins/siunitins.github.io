@@ -585,13 +585,6 @@
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
-<Teacher>
-	<Name>Sem Professor</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
 </Teachers_List>
 
 <Students_List>
@@ -767,7 +760,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Sem Professor</Teacher>
+	<Teacher>Jocivan Suassone</Teacher>
 	<Subject>G18P2 - Gestão de Processos Empresariais</Subject>
 	<Students>2º Período da Grade 2018 - G18P2</Students>
 	<Duration>1</Duration>
@@ -1075,7 +1068,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Sem Professor</Teacher>
+	<Teacher>Rafael Bosso</Teacher>
 	<Subject>G18P5 - Otimização para Sistemas</Subject>
 	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>1</Duration>
