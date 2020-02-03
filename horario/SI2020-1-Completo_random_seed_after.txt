@@ -1,5 +1,5 @@
-﻿Geração concluída em: 02/02/2020 22:33
+﻿Geração concluída em: 02/02/2020 22:38
 
-Semente randômica no fim da geração é: X=1111880681, Y=1042664531
+Semente randômica no fim da geração é: X=1986362780, Y=34386118
 
 Esse arquivo foi gerado automaticamente por FET 5.41.0.
