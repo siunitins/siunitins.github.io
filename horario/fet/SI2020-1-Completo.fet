@@ -2376,6 +2376,14 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>30</Activity_Id>
+	<Room>LABIN IV</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
 </Space_Constraints_List>
 
 </fet>
