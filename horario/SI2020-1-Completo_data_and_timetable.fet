@@ -1139,14 +1139,14 @@
 	<Comments></Comments>
 </Room>
 <Room>
-	<Name>Bloco A Sala 5</Name>
+	<Name>Bloco A Sala 6</Name>
 	<Building>Bloco A</Building>
 	<Capacity>30000</Capacity>
 	<Virtual>false</Virtual>
 	<Comments></Comments>
 </Room>
 <Room>
-	<Name>Bloco A Sala 6</Name>
+	<Name>Bloco A Sala 7</Name>
 	<Building>Bloco A</Building>
 	<Capacity>30000</Capacity>
 	<Virtual>false</Virtual>
@@ -2048,224 +2048,185 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>7</Activity_Id>
-	<Room>LABIN I</Room>
+	<Room>LABIN II</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Room>LABIN II</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Room>LABIN IV</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Room>LABIN II</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Room>LABIN II</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>35</Activity_Id>
+	<Room>LABIN III</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>31</Activity_Id>
+	<Room>LABIN III</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>32</Activity_Id>
+	<Room>LABIN III</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Room>LABIN II</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Room>LABIN IV</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>10</Activity_Id>
+	<Room>LABIN V</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Room>LABIN V</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Room>LABIN IV</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Room>LABIN V</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>38</Activity_Id>
+	<Room>LABIN V</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Room>LABIN IV</Room>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>24</Activity_Id>
+	<Activity_Id>23</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN II</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>32</Activity_Id>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN II</Preferred_Room>
-	<Preferred_Room>LABIN III</Preferred_Room>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>17</Activity_Id>
+	<Activity_Id>27</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN II</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>21</Activity_Id>
+	<Activity_Id>36</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN II</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>31</Activity_Id>
+	<Activity_Id>1</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN II</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>22</Activity_Id>
+	<Activity_Id>13</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN III</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>35</Activity_Id>
+	<Activity_Id>37</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN III</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>18</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN III</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>25</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN III</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>19</Activity_Id>
-	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Preferred_Room>LABIN V</Preferred_Room>
-	<Preferred_Room>LABIN III</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>16</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>29</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>30</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>33</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>33</Activity_Id>
+	<Activity_Id>2</Activity_Id>
 	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Preferred_Room>LABIN II</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>14</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN V</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>10</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN V</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>11</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN V</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>9</Activity_Id>
-	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN IV</Preferred_Room>
-	<Preferred_Room>LABIN V</Preferred_Room>
-	<Preferred_Room>LABIN III</Preferred_Room>
-	<Preferred_Room>LABIN II</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>38</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>LABIN V</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>37</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
 	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>23</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>36</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>13</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>1</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>27</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
@@ -2273,7 +2234,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>26</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
@@ -2281,55 +2242,16 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>34</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>15</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>40</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>41</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>4</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>39</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>2</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
@@ -2337,10 +2259,150 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>3</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 5</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
+<ConstraintActivityPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>LABIN II</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRooms>
+<ConstraintActivityPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRooms>
+<ConstraintActivityPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRooms>
+<ConstraintActivityPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>41</Activity_Id>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 6</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRooms>
+<ConstraintActivityPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>12</Activity_Id>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>LABIN III</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRooms>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>33</Activity_Id>
+	<Room>LABIN III</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRooms>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>37</Activity_Id>
+	<Room>Bloco A Sala 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Room>Bloco A Sala 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Room>Bloco A Sala 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Room>Bloco A Sala 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Room>Bloco A Sala 1</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Room>Bloco A Sala 1</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Room>Bloco A Sala 1</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Room>Bloco A Sala 1</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Room>Bloco A Sala 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>41</Activity_Id>
+	<Room>Bloco A Sala 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>1</Activity_Id>
@@ -2352,47 +2414,15 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>2</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>3</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>4</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>9</Activity_Id>
-	<Room>LABIN IV</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>10</Activity_Id>
-	<Room>LABIN V</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>11</Activity_Id>
-	<Room>LABIN V</Room>
+	<Activity_Id>12</Activity_Id>
+	<Room>LABIN III</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2401,38 +2431,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>13</Activity_Id>
 	<Room>Bloco A Sala 1</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>14</Activity_Id>
-	<Room>LABIN V</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>15</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>16</Activity_Id>
-	<Room>LABIN IV</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>17</Activity_Id>
-	<Room>LABIN II</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2440,151 +2438,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>18</Activity_Id>
-	<Room>LABIN III</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>19</Activity_Id>
-	<Room>LABIN III</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>21</Activity_Id>
 	<Room>LABIN II</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>22</Activity_Id>
-	<Room>LABIN III</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>23</Activity_Id>
-	<Room>Bloco A Sala 1</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>24</Activity_Id>
-	<Room>LABIN II</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>25</Activity_Id>
-	<Room>LABIN III</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>26</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>27</Activity_Id>
-	<Room>Bloco A Sala 1</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>29</Activity_Id>
-	<Room>LABIN IV</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>30</Activity_Id>
-	<Room>LABIN IV</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>31</Activity_Id>
-	<Room>LABIN II</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>32</Activity_Id>
-	<Room>LABIN II</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>33</Activity_Id>
-	<Room>LABIN IV</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>34</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>35</Activity_Id>
-	<Room>LABIN III</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>36</Activity_Id>
-	<Room>Bloco A Sala 1</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>37</Activity_Id>
-	<Room>Bloco A Sala 1</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>38</Activity_Id>
-	<Room>LABIN V</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2592,7 +2446,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>39</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2600,15 +2454,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>40</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>41</Activity_Id>
-	<Room>Bloco A Sala 5</Room>
+	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

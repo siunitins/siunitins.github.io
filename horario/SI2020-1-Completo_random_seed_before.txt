@@ -1,5 +1,5 @@
-﻿Geração iniciada em: 23/01/2020 17:32
+﻿Geração iniciada em: 02/02/2020 21:34
 
-Semente aleatória no início da geração é: X=1248781045, Y=1746801825
+Semente aleatória no início da geração é: X=1968988389, Y=1983623275
 
 Esse arquivo foi gerado automaticamente por FET 5.41.0.
