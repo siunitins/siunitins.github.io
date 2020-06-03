@@ -650,7 +650,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Alex Coelho</Teacher>
+	<Teacher>Rodrigo Barbosa</Teacher>
 	<Subject>G18P3 - Sociedade e Tecnologia</Subject>
 	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>1</Duration>
@@ -981,7 +981,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Rafael Bosso</Teacher>
+	<Teacher>Jocivan Suassone</Teacher>
 	<Subject>G18P5 - Otimização para Sistemas</Subject>
 	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>1</Duration>
@@ -1058,7 +1058,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Alex Coelho</Teacher>
+	<Teacher>Fredson Costa</Teacher>
 	<Subject>G18P6 - Governança de TI</Subject>
 	<Students>6º Período da Grade 2018 - G18P6</Students>
 	<Duration>1</Duration>
@@ -1323,7 +1323,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>50</Activity_Id>
-	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
@@ -1341,7 +1341,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>52</Activity_Id>
-	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
@@ -1350,7 +1350,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>53</Activity_Id>
-	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
