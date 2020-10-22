@@ -635,11 +635,6 @@
 	<Number_of_Students>0</Number_of_Students>
 	<Comments></Comments>
 </Year>
-<Year>
-	<Name>Regularização/Dependência - Grade 2010 - G10RD</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Comments></Comments>
-</Year>
 </Students_List>
 
 <Activities_List>
@@ -1074,45 +1069,12 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Alex Coelho</Teacher>
-	<Subject>G10P8 - Direito e Legislação em Informática</Subject>
-	<Students>8º Período da Grade 2010 - G10P8</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>50</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Mailson Santos</Teacher>
-	<Subject>G10P8 - Segurança e Auditoria de Sistemas</Subject>
-	<Students>8º Período da Grade 2010 - G10P8</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>51</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Douglas Chagas</Teacher>
 	<Subject>G10P8 - Trabalho de Conclusão de Curso</Subject>
 	<Students>8º Período da Grade 2010 - G10P8</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>52</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Marcelo Ribeiro</Teacher>
-	<Subject>G10P8 - Optativa II</Subject>
-	<Students>8º Período da Grade 2010 - G10P8</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>53</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1340,21 +1302,6 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>4º Período da Grade 2018 - G18P4</Students>
-	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Sábado - Tarde</Day>
-		<Hour>Aula 1</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado - Tarde</Day>
-		<Hour>Aula 2</Hour>
-	</Not_Available_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintStudentsSetNotAvailableTimes>
-<ConstraintStudentsSetNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Students>Regularização/Dependência - Grade 2010 - G10RD</Students>
 	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Sábado - Tarde</Day>
@@ -1778,33 +1725,6 @@
 	<Preferred_Day>Quinta-feira</Preferred_Day>
 	<Preferred_Hour>Aula 2</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>50</Activity_Id>
-	<Preferred_Day>Sábado - Tarde</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>51</Activity_Id>
-	<Preferred_Day>Sexta-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>53</Activity_Id>
-	<Preferred_Day>Quinta-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
