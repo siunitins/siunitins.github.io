@@ -1185,10 +1185,10 @@
 </Activity>
 <Activity>
 	<Teacher>Jocivan Suassone</Teacher>
-	<Subject>G10P4 - Pesquisa Operacional</Subject>
-	<Students>Regularização/Dependência - Grade 2010 - G10RD</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
+	<Subject>G18P5 - Otimização para Sistemas</Subject>
+	<Students>5º Período da Grade 2018 - G18P5</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
 	<Id>60</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
@@ -1369,35 +1369,8 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>50</Activity_Id>
-	<Preferred_Day>Sexta-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>51</Activity_Id>
-	<Preferred_Day>Segunda-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>52</Activity_Id>
 	<Preferred_Day>Quarta-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>53</Activity_Id>
-	<Preferred_Day>Quinta-feira</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
@@ -1756,15 +1729,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>60</Activity_Id>
-	<Preferred_Day>Sábado - Manhã</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>56</Activity_Id>
 	<Preferred_Day>Terça-feira</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
@@ -1805,6 +1769,15 @@
 	<Preferred_Day>Sábado - Tarde</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 2</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
