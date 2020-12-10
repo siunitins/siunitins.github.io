@@ -1447,6 +1447,29 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Fredson Costa</Teacher>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sábado - Manhã</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Manhã</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Tarde</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Tarde</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
 </Time_Constraints_List>
 
 <Space_Constraints_List>
