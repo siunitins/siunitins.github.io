@@ -896,7 +896,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Itamar Júnior</Teacher>
+	<Teacher>Jocivan Suassone</Teacher>
 	<Subject>G18P5 - Computação Orientada a Serviços</Subject>
 	<Students>5º Período da Grade 2018 - G18P5</Students>
 	<Duration>2</Duration>
@@ -1348,7 +1348,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Jânio Teixeira</Teacher>
-	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-feira</Day>
 		<Hour>Aula 1</Hour>
@@ -1363,14 +1363,6 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-feira</Day>
-		<Hour>Aula 2</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado - Manhã</Day>
-		<Hour>Aula 1</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado - Manhã</Day>
 		<Hour>Aula 2</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -1450,6 +1442,85 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Fredson Costa</Teacher>
+	<Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Manhã</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Manhã</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Tarde</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Tarde</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Napoleão Póvoa</Teacher>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Manhã</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Manhã</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Tarde</Day>
+		<Hour>Aula 1</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado - Tarde</Day>
+		<Hour>Aula 2</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Preferred_Day>Sábado - Manhã</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Joelson Delfino</Teacher>
 	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Sábado - Manhã</Day>
@@ -1470,6 +1541,400 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Preferred_Day>Sábado - Manhã</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTwoActivitiesConsecutive>
+	<Weight_Percentage>100</Weight_Percentage>
+	<First_Activity_Id>15</First_Activity_Id>
+	<Second_Activity_Id>40</Second_Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTwoActivitiesConsecutive>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>37</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>6</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 2</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>39</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 2</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>35</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 2</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>31</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 2</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>48</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>46</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>42</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>44</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>45</Activity_Id>
+	<Preferred_Day>Sábado - Manhã</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>49</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 2</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>56</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>55</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>57</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>58</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>59</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Preferred_Day>Sábado - Manhã</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>52</Activity_Id>
+	<Preferred_Day>Sábado - Tarde</Preferred_Day>
+	<Preferred_Hour>Aula 1</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
 </Time_Constraints_List>
 
 <Space_Constraints_List>
@@ -1683,16 +2148,18 @@
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>3</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 6</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>18</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
 	<Preferred_Room>LABIN II</Preferred_Room>
+	<Preferred_Room>LABIN IV</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
@@ -1700,8 +2167,8 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>40</Activity_Id>
 	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
 	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 6</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
@@ -1717,8 +2184,9 @@
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>15</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
+	<Preferred_Room>Bloco A Sala 6</Preferred_Room>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredRooms>
@@ -1765,22 +2233,6 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>34</Activity_Id>
-	<Room>Bloco A Sala 1</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>15</Activity_Id>
-	<Room>Bloco A Sala 1</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>3</Activity_Id>
 	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
