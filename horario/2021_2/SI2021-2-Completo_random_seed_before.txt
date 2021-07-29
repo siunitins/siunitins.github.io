@@ -1,0 +1,7 @@
+﻿Geração iniciada em: 28/07/2021 22:28
+
+A semente aleatória no início da geração é:
+	s10=1398352940, s11=665354707, s12=1563690858,
+	s20=2343125687, s21=4240371562, s22=2864729120.
+
+Esse arquivo foi gerado automaticamente por FET 6.1.1.
