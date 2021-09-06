@@ -497,13 +497,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Jeferson Costa</Name>
-	<Target_Number_of_Hours>0</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Jocivan Suassone</Name>
 	<Target_Number_of_Hours>0</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -852,34 +845,12 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Jocivan Suassone</Teacher>
-	<Subject>G18P1 - Arquitetura e Organização de Computadores I</Subject>
-	<Students>1º Período da Grade 2018 - G18P1</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>23</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Joelson Delfino</Teacher>
 	<Subject>G18P3 - Cálculo Diferencial e Integral</Subject>
 	<Students>3º Período da Grade 2018 - G18P3</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>26</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Lígia Felix</Teacher>
-	<Subject>G18P1 - Inglês Instrumental</Subject>
-	<Students>1º Período da Grade 2018 - G18P1</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>27</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -935,17 +906,6 @@
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>35</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Odi Alexandre</Teacher>
-	<Subject>G18P1 - Leitura e Prática de Produção Textual</Subject>
-	<Students>1º Período da Grade 2018 - G18P1</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>36</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -1083,7 +1043,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>A definir</Teacher>
+	<Teacher>Jocivan Suassone</Teacher>
 	<Subject>G18P7 - Sistemas Distribuídos</Subject>
 	<Students>7º Período da Grade 2018 - G18P7</Students>
 	<Duration>2</Duration>
@@ -1112,7 +1072,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>57</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -1149,29 +1109,18 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Jeferson Costa</Teacher>
-	<Subject>G18P1 - Desenvolvimento Front-end</Subject>
-	<Students>1º Período da Grade 2018 - G18P1</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>61</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Leandra Cristina</Teacher>
 	<Subject>G18P5 - Projeto Integrador II</Subject>
 	<Students>5º Período da Grade 2018 - G18P5</Students>
-	<Duration>1</Duration>
-	<Total_Duration>1</Total_Duration>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
 	<Id>62</Id>
 	<Activity_Group_Id>0</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Jeferson Costa</Teacher>
+	<Teacher>Fredson Costa</Teacher>
 	<Subject>G18P8 - Segurança e Auditoria de Sistemas</Subject>
 	<Students>8º Período da Grade 2018 - G18P8</Students>
 	<Duration>2</Duration>
@@ -1443,42 +1392,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>5</Activity_Id>
 	<Preferred_Day>Segunda-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>23</Activity_Id>
-	<Preferred_Day>Terça-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>36</Activity_Id>
-	<Preferred_Day>Quarta-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>61</Activity_Id>
-	<Preferred_Day>Quinta-feira</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>true</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>27</Activity_Id>
-	<Preferred_Day>Sexta-feira</Preferred_Day>
 	<Preferred_Hour>Aula 1</Preferred_Hour>
 	<Permanently_Locked>true</Permanently_Locked>
 	<Active>true</Active>
@@ -1898,15 +1811,6 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>57</Activity_Id>
-	<Preferred_Day>Sábado - Manhã</Preferred_Day>
-	<Preferred_Hour>Aula 1</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
 </Time_Constraints_List>
 
 <Space_Constraints_List>
@@ -2021,30 +1925,6 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>23</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>27</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>36</Activity_Id>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Bloco A Sala 7</Preferred_Room>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRooms>
-<ConstraintActivityPreferredRooms>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>1</Activity_Id>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
 	<Preferred_Room>Bloco A Sala 1</Preferred_Room>
@@ -2156,30 +2036,6 @@
 </ConstraintActivityPreferredRoom>
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>23</Activity_Id>
-	<Room>Bloco A Sala 7</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>36</Activity_Id>
-	<Room>Bloco A Sala 7</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>27</Activity_Id>
-	<Room>Bloco A Sala 7</Room>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredRoom>
-<ConstraintActivityPreferredRoom>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>26</Activity_Id>
 	<Room>Bloco A Sala 1</Room>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -2221,7 +2077,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>2</Activity_Id>
-	<Room>Bloco A Sala 1</Room>
+	<Room>Bloco A Sala 7</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -2229,7 +2085,7 @@
 <ConstraintActivityPreferredRoom>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>3</Activity_Id>
-	<Room>Bloco A Sala 6</Room>
+	<Room>Bloco A Sala 7</Room>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
